@@ -1,8 +1,8 @@
 # hypno-tunnel-python3
 
-A little excercise for myself creating yet another demoscene'ish program, showing off classic Amiga demoscene-like graphics, **On Linux**.
+A little excercise for myself porting yet another demoscene'ish program from `C` to `Python3`, showing off classic Amiga demoscene-like graphics, **On Linux**.
 
-Made with Python3 using PyGame that implements a perspective checkered spinning tunnel, Bresenham's Line Algortihm moving starfield and a isometric polygon cube moving floor. Now with a soundbyte bgm loop!
+Made with `Python3` using `PyGame` that implements a perspective checkered spinning tunnel, Bresenham's Line Algortihm moving starfield and a isometric polygon cube moving floor. Now with a soundbyte bgm loop!
 
 Should work on any Linux distribution that has `Python3` + `PyGame`.
 
