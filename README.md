@@ -18,7 +18,7 @@ $ ./hypno-tunnel.py -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 
 
 #### What:
 - `16KB` optimized demoscene Python3 script.
-- `40KB` soundbyte loop (courtesy of [**k!M**](https://soundcloud.com/kim-olsen-357297567)), making the total size 60KB!
+- `40KB` soundbyte loop (courtesy of [**k!M**](https://soundcloud.com/kim-olsen-357297567)), making the total size `56KB`!
 
 #### How:
 - **Perspective Tunneling**: Rings scale with non-linear power distribution ($r^{2.2}$) to give a 3D depth-vanishing effect toward the horizon vanishing point.
