@@ -27,4 +27,4 @@ $ hypno-tunnel -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
 - It uses **Bresenham's Line Algorithm** for parrallax star trails.
 - Isometric cube floor: We replace ASCII characters with filled polygonal quads, dramatically increasing the visual quality while keeping the same 2:1 isometric projection math and back-to-front rendering order.
 
-![hypno-tunnel/](https://github.com/pizslacker/hypno-tunnel/blob/main/images/hypno-tunnel.png)
+![hypno-tunnel-python3](images/hypno-tunnel-python3.png)
