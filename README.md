@@ -13,11 +13,11 @@ pip install python3 python3-pygame
 
 Usage:
 ```bash
-$ hypno-tunnel -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
+$ ./hypno-tunnel.py -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
 ```
 
 #### What:
-- `-O3` optimized demoscene binary (`20KB`).
+- `16KB` optimized demoscene Python3 script.
 - `40KB` soundbyte loop (courtesy of [**k!M**](https://soundcloud.com/kim-olsen-357297567)), making the total size 60KB!
 
 #### How:
